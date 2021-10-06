@@ -1,2 +1,2 @@
 # MVC-PWPB
-repository khusus tugas-tugas Pemrograman Web Perangkat Bergerak (PWPB)
+repository tugas MVC Pemrograman Web Perangkat Bergerak (PWPB)
